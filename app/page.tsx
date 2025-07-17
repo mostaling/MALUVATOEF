@@ -276,7 +276,7 @@ const HeroSection: React.FC = () => {
 // ============================================================================
 
 const destinations = [
-    { name: "Canada", flagKey: "Canada" }, { name: "France", flagKey: "France" }, { name: "E.A.U.", flagKey: "UAE" },
+    { name: "Canada", flagKey: "Canada" }, { name: "France", flagKey: "France" }, { name: "UAE", flagKey: "UAE" },
     { name: "Arabie Saoudite", flagKey: "SaudiArabia" }, { name: "Qatar", flagKey: "Qatar" }, { name: "Koweït", flagKey: "Kuwait" }, { name: "Bahreïn", flagKey: "Bahrain" },
 ];
 
